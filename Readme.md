@@ -1,4 +1,5 @@
   585  eval $(minikube docker-env)
+	
   586  cd ..
   587  ls
   588  cd book_service_1.0/
